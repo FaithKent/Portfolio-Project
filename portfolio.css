@@ -1,0 +1,43 @@
+#notAPage {
+  height: 40px;
+  background: #6B4273;
+  color: white;
+}
+
+#home {
+  height: 1000px;
+  background: url('http://nordicfoodfestival.org/wp-content/uploads/sites/7/2015/07/iceland-insane.jpg');
+  color: white;
+}
+
+#about {
+  height: 1000px;
+  background: #4A66A5;
+}
+
+#portfolio {
+  height: 1000px;
+  background: #2B4968;
+}
+
+#embroidery-designs {
+  background: #C52269;
+  height: 1000px;
+  color: white;
+}
+
+#contact {
+  height: 1000px;
+  background: #1B334C;
+  color: white;
+}
+
+.cursive {
+  font-family: 'Dawning of a New Day', cursive;
+  font-size: 80px;
+  height: 200px;
+}
+
+.page {
+  padding-top:48px;
+}
