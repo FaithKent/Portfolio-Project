@@ -6,7 +6,7 @@
 
 #home {
   height:     1000px;
-  background: url('http://nordicfoodfestival.org/wp-content/uploads/sites/7/2015/07/iceland-insane.jpg');
+  background: url('../images/iceland-insane.jpg');
   color:      white;
   /*display: flex;*/
   /*flex-direction: column;*/
@@ -54,6 +54,13 @@
   border:    solid black;
 }
 
+.my-card {
+  width:50%;
+  background-color: rgba(0,0,0,.1);
+  box-shadow:   2px 5px 5px rgba(0,0,0,.3);
+  height: 200px;
+}
+
 .cursive {
   font-family: 'Dawning of a New Day', cursive;
   font-size:   80px;
@@ -65,4 +72,8 @@
 
 .page-description {
   height: 100px;
+}
+
+div {
+  /*border: solid black;*/
 }
